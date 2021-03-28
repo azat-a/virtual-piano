@@ -1,6 +1,6 @@
 # Virtual Piano
 Music sampler with piano sounds. You can play on it by clicking on the piano keys, or by clicking and moving the mouse over the keys, or by pressing the keyboard keys.
-Link: [https://azat-a.github.io/virtual-piano/]
+Link: [https://azat-a.github.io/virtual-piano/](https://azat-a.github.io/virtual-piano/)
 ![Screenshot of Virtual Piano](https://raw.githubusercontent.com/azat-a/virtual-piano/main/virtual-piano-screenshot.png)
 
 ## Implementation
